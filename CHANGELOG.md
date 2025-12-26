@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.1.0
 
 * Initial release of flutter_live_motion plugin.
 * Support for generating iOS Live Photos with proper metadata pairing.
