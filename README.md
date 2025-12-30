@@ -29,7 +29,7 @@ Add `flutter_live_motion` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_live_motion: ^0.0.1
+  flutter_live_motion: ^0.1.0
 ```
 
 Then run:
@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```yaml
 dependencies:
-  flutter_live_photos: ^0.0.1
+  flutter_live_photos: ^0.1.0
 ```
 
 然后运行：
